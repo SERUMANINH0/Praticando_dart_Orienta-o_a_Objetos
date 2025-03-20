@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Orientação a Objetos em Dart
 
 Introdução
@@ -57,3 +58,6 @@ Mixins permitem reutilizar código sem herança.
 Conclusão
 
 Dart é uma linguagem poderosa para a Orientação a Objetos, oferecendo suporte para classes, herança, interfaces, polimorfismo, encapsulamento e mixins. Dominar esses conceitos é essencial para desenvolver aplicações escaláveis com Dart e Flutter.
+=======
+# praticando_dart_Orienta-o_a_Objetos
+>>>>>>> e7916b6986a300f42d57dee8a6caaaaee4991dc1
