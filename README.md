@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Orientação a Objetos em Dart
 
 Introdução
